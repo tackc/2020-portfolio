@@ -1,11 +1,11 @@
 {
-  "name": "argon-design-system-react",
+  "name": "2020-portfolio",
   "version": "1.1.0",
-  "description": "React version of Argon Design System by Creative Tim",
+  "description": "Portfolio site for Chris Tack - Full Stack Developer",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
+    "url": "git+https://github.com/tackc/2020-portfolio.git"
   },
   "keywords": [
     "react",
@@ -22,12 +22,12 @@
     "argon-design-system-react",
     "design-system-react"
   ],
-  "author": "Creative Tim",
+  "author": "Chris Tack",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
+    "url": "https://github.com/tackc/2020-portfolio/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
+  "homepage": "https://tackc.github.io/2020-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
